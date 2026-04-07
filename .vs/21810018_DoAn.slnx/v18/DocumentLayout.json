@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|e:\\code\\c#\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_doan\\myshop\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\viewmodels\\productsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|e:\\code\\c#\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_doan\\myshop\\views\\products\\productlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\views\\products\\productlistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|e:\\code\\c#\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_doan\\myshop\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|e:\\code\\c#\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_doan\\myshop\\views\\dialog\\commondialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\views\\dialog\\commondialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|e:\\code\\c#\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_doan\\myshop\\views\\forms\\editproductform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\views\\forms\\editproductform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|e:\\code\\c#\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_doan\\myshop\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|e:\\code\\c#\\l\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_doan\\myshop\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7CDB837-3CFF-DC06-32A2-78E2AD408767}|MyShop\\MyShop.csproj|solutionrelative:myshop\\repositories\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 316,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditProductForm.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Views\\Forms\\EditProductForm.xaml.cs",
+              "RelativeDocumentMoniker": "MyShop\\Views\\Forms\\EditProductForm.xaml.cs",
+              "ToolTip": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Views\\Forms\\EditProductForm.xaml.cs",
+              "RelativeToolTip": "MyShop\\Views\\Forms\\EditProductForm.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T04:49:56.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonDialog.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Views\\Dialog\\CommonDialog.cs",
+              "RelativeDocumentMoniker": "MyShop\\Views\\Dialog\\CommonDialog.cs",
+              "ToolTip": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Views\\Dialog\\CommonDialog.cs",
+              "RelativeToolTip": "MyShop\\Views\\Dialog\\CommonDialog.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:39:16.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Repositories\\IRepo.cs",
+              "RelativeDocumentMoniker": "MyShop\\Repositories\\IRepo.cs",
+              "ToolTip": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Repositories\\IRepo.cs",
+              "RelativeToolTip": "MyShop\\Repositories\\IRepo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAawBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T04:35:31.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "MyShop\\Repositories\\ProductRepository.cs",
+              "ToolTip": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "MyShop\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T07:39:21.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "MyShop\\Service\\ProductService.cs",
+              "ToolTip": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Service\\ProductService.cs",
+              "RelativeToolTip": "MyShop\\Service\\ProductService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawBsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T04:04:46.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsViewModel.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\ViewModels\\ProductsViewModel.cs",
+              "RelativeDocumentMoniker": "MyShop\\ViewModels\\ProductsViewModel.cs",
+              "ToolTip": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\ViewModels\\ProductsViewModel.cs",
+              "RelativeToolTip": "MyShop\\ViewModels\\ProductsViewModel.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAjwJoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T16:22:43.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductListPage.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Views\\Products\\ProductListPage.xaml.cs",
+              "RelativeDocumentMoniker": "MyShop\\Views\\Products\\ProductListPage.xaml.cs",
+              "ToolTip": "E:\\Code\\C#\\L\u1EADp tr\u00ECnh \u1EE9ng d\u1EE5ng qu\u1EA3n l\u00FD 2\\21810018_DoAn\\MyShop\\Views\\Products\\ProductListPage.xaml.cs",
+              "RelativeToolTip": "MyShop\\Views\\Products\\ProductListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T04:50:36.794Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 84,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

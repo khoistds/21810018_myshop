@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <None Update="App.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </None>
+    <Page Update="Views\Forms\EditProductForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Forms\AddProductForm.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Controls\PaginationControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Orders\OrderListPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Dashboard\DashboardPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Users\UserListPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Employees\EmployeeListPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Stock\StockListPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Suppliers\SupplierListPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Customers\CustomerListPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Exports\ExportListPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Imports\ImportListPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Products\ProductListPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Categories\CategoryListPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Settings\SettingsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\Auth\LoginWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
